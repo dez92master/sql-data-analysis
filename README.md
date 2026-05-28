@@ -54,7 +54,22 @@ This project also includes SQL stored procedures for employee management and aut
 - Reusable SQL procedures
 - CALL statement execution
 - Database process optimization
-  
+
+## Transactions
+
+This project also includes SQL transaction management scripts to ensure data consistency and process control.
+
+### Files
+- Transactions.sql
+- Storeprocedure_y_Transactions.sql
+
+### Features
+- Transaction control
+- COMMIT and ROLLBACK usage
+- SAVEPOINT implementation
+- Error handling logic
+- Data consistency management
+- 
 ## Author
 Erik Jhon Sanchez Vega
 Business Intelligence | Data Analytics | SQL | Python | Power BI
