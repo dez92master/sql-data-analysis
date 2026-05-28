@@ -69,6 +69,32 @@ This project also includes SQL transaction management scripts to ensure data con
 - SAVEPOINT implementation
 - Error handling logic
 - Data consistency management
+
+  ## Views
+
+This project also includes SQL views for simplifying complex queries and improving data visualization.
+
+### Files
+- create_view_empleados_proyectos.sql
+
+### Features
+- Multi-table JOIN queries
+- Simplified data access
+- Reusable query structures
+- Employee and project visualization
+
+## Procedures
+
+This project includes SQL stored procedures for database automation and data insertion.
+
+### Files
+- create_procedure_departamentos.sql
+
+### Features
+- Parameterized procedures
+- Automated INSERT operations
+- Reusable SQL logic
+- Database process automation
 - 
 ## Author
 Erik Jhon Sanchez Vega
