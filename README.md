@@ -40,6 +40,21 @@ Manages employee assignments to projects.
 ### LogEmpleados
 Stores employee activity logs.
 
+
+## Stored Procedures
+
+This project also includes SQL stored procedures for employee management and automation.
+
+### Files
+- StoreProcedure_EmpleadosNuevos.sql
+- llamado_Call_StoreProcedure_NuevosDatos.sql
+
+### Features
+- Employee data automation
+- Reusable SQL procedures
+- CALL statement execution
+- Database process optimization
+  
 ## Author
 Erik Jhon Sanchez Vega
 Business Intelligence | Data Analytics | SQL | Python | Power BI
